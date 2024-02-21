@@ -1,0 +1,54 @@
+body{
+    background-color: papayawhip;
+}
+#title{
+    text-align: center;
+}
+#main{
+    background-color: white;
+    border-radius: 20px;
+}
+#img-div{
+    border-radius: 30px;
+    background-color: orangered;
+    border: springgreen solid;
+}
+#image{
+    display: block;
+    max-height: 20%;
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+#img-caption{
+    border-radius: 10px;
+    background-color: darkred;
+    display: block;
+    margin: 2px auto;
+    width: 20%;
+    padding: 2px;
+}
+#tribute-info{
+    background-color: springgreen;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+    /*margin: 5px;*/
+    padding: 10px;
+}
+#list{
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px ;
+    background-color: black;
+    color: white;
+}
+.item{
+    padding-bottom: 20px;
+}
+.bold{
+    font-weight: bold;
+}
